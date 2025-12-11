@@ -64,7 +64,7 @@ Siksha O Anusandhan University, Bhubaneswar | Apr 2020 - Jun 2024
 I'm passionate about deploying AI solutions that create real business impact. Let's connect if you're looking for someone who can take models from concept to production!
 
 - 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ankurmohanta)
-- 📧 **Email:** ankurmohanta@example.com
+- 📧 **Email:** ankur.mohanta2001@gmail.com
 - 🌐 **Portfolio:** Check out my pinned repositories below!
 
 ## 📊 GitHub Stats
