@@ -63,7 +63,7 @@ Siksha O Anusandhan University, Bhubaneswar | Apr 2020 - Jun 2024
 🔍 **Actively seeking opportunities in Data Science, Computer Vision, and AI roles.**  
 I'm passionate about deploying AI solutions that create real business impact. Let's connect if you're looking for someone who can take models from concept to production!
 
-- 💼 **LinkedIn:** [Connect with me on LinkedIn]([https://www.linkedin.com/in/ankurmohanta](https://www.linkedin.com/in/ankurmohanta2001/))
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ankurmohanta2001/)
 - 📧 **Email:** ankur.mohanta2001@gmail.com
 - 🌐 **Portfolio:** Check out my pinned repositories below!
 
